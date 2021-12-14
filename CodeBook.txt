@@ -1,0 +1,8 @@
+000 Dead Drop @
+001 Corner of Lexington Ave and E 48th Street
+010 Corner of Madison Ave and E 34th Street
+011 Drop Package in Potted Plant outside Wells Fargo
+100 Drop Package in Gold Gargage Can
+101 12 PM Sharp
+110 7 AM Sharp
+111 Abort if you see a Red Rose
